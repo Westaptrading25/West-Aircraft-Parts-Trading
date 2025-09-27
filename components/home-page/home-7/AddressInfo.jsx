@@ -8,7 +8,7 @@ const AddressInfo = () => {
     {
       icon: "/images/icon/icon_38.svg",
       title: "Contact Info",
-      address: "Open a chat or give us call at\n310.841.5500",
+      address: "For inquiries, please contact us via Viber or email\n+63 962 528 3239 Westaptrading@gmail.com",
     },
   ];
 
