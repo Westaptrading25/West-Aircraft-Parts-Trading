@@ -3,7 +3,7 @@ const AddressInfo = () => {
     {
       icon: "/images/icon/icon_37.svg",
       title: "Our Address",
-      address: "1012 Pebda Parkway, Mirpur 2\nDhaka, Bangladesh",
+      address: "B7 L8 Ignatius ST., Brgy. Pulang Lupa Dos, Las Piñas city, Metro Manila 1742",
     },
     {
       icon: "/images/icon/icon_38.svg",
